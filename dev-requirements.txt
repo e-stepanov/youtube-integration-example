@@ -1,0 +1,4 @@
+httpretty
+ipython
+pytest
+pytest-mock
